@@ -2,6 +2,15 @@
 
 **Dashboard Link** - https://public.tableau.com/views/Welloop_Product_Strategy_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+---
+
+## Dashboard preview
+
+**Page 1 -- Overview**  
+![Overview](screenshots/Page1.png)
+
+---
+
 ## Project Overview
 
 This project presents a business analytics solution developed from my master's thesis research in collaboration with Welloop AB, a Swedish sports technology company focused on improving youth sports participation through digital innovation.
